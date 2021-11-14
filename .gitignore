@@ -1,0 +1,8 @@
+nbproject
+log/open-letters.log
+log/htmlpurifier/CSS
+log/htmlpurifier/URI
+log/gc_*.php
+config/config.inc.php
+uploaded/*.jpg
+uploaded/*.png
